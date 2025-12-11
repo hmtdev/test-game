@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Connect 4",
+  "description": "A classic Connect 4 game featuring a smart AI opponent powered by Google Gemini. Play against a friend or challenge the AI logic.",
+  "requestFramePermissions": []
+}
